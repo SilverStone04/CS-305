@@ -1,2 +1,2 @@
 # CS-305
-CS 305 prPjects
+CS 305 Projects
